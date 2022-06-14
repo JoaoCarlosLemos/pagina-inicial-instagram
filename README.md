@@ -1,10 +1,27 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+##  Boot Camp - Impulso Javascript Evolution - plataforma D.I.O - Junho 2022
+### Módulo II - Fundamentos Web com HTML e CSS
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+ **DESAFIO :** \
+ Repositório criado para armazenar os arquivos referente ao desafio de projeto "recriando a página inicial do Instagram".
 
-### Os requisitos são:
+ **DESCRIÇÃO :** \
+ Projeto desenvolvido a partir de referência disponibilizada na plataforma da DIO com intúito de desenvolver habilidades e conceitos 
+ sobre Flex-Box e Responsividade
+ 
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-## 🚀 Let's code! 🚀
+<div align="center">
+  <div>
+    Meu Projeto  https://joaocarloslemos.github.io/pagina-inicial-instagram/
+  </div>
+  <div>
+    <img width="500px" src="https://raw.githubusercontent.com/JoaoCarlosLemos/imagens/main/pagina-inicial-instragram-jc.png">
+  </div>
+
+  <div>
+    Referência
+  </div>
+  <div>
+    <img width="500px" src="https://raw.githubusercontent.com/JoaoCarlosLemos/imagens/main/pagina-inicial-instagram-referencia.png">
+  </div>
+</div>
